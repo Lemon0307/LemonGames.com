@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans|Josefin+Sans|Roboto+Mono|Roboto+Slab&display=swap');
+
+#title {
+font-family: 'Fira Sans', sans-serif;
+color: white;
+}
+
+#bar {
+background-color: yellow;
+height: 15px;
+margin: -10px;
+border-color: transparent;
+}
+
+body {
+background-color: black;
+}
+
+.content {
+background-color: white;
+width: 100%;
+height: 100%;
+border-radius: 10px;
+}
+
+#home-button {
+padding: 5px;
+background-color: yellow;
+margin: 5px;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 15pt;
+border-radius: 10px;
+}
+
+#games-button {
+padding: 5px;
+background-color: yellow;
+margin: 5px;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 15pt;
+border-radius: 10px;
+}
+
+#home-button:link {
+color: black;
+}
+
+#home-button:visited {
+color: black;
+}
+
+#games-button:link {
+color: black;
+}
+
+#games-button:visited {
+color: black;
+}
+
+#content-line {
+background: black;
+border-color: transparent;
+height: 1px;
+}
+
+#head {
+font-family: 'Roboto Mono', monospace;
+font-size: 25pt;
+margin-left: 10px;
+}
+
+#par {
+margin-left: 10px;
+font-family: 'Roboto Slab', serif;
+}
+
+.download-btn {
+font-size: 15pt;
+border-radius: 10px;
+border-color: black;
+background-color: yellow;
+}
+
+.link-btn {
+font-size: 15pt;
+border-radius: 10px;
+border-color: black;
+background-color: yellow;
+}
